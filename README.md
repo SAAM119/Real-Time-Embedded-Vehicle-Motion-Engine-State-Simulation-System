@@ -128,3 +128,7 @@ Built as a **foundation system** for advanced automotive ECU, AI-assisted drivin
 **Aman Vishwash**  
 Electronics & Communication Engineering  
 Automotive ECU | Vehicle Control | Embedded Systems
+---
+## License
+This project is licensed under the MIT License.
+
